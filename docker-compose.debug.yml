@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  l3monic:
+    image: l3monic
+    build:
+      context: .
+      dockerfile: ./Dockerfile

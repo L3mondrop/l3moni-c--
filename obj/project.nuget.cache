@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FidK14PBD825XyBu6M4kQiyZq7FuoN6oHwAhmtDiiufzUnm45ru3v0qH9pdIuHpCFECpQ0rtkDU3Oui8iMB5vg==",
+  "success": true,
+  "projectFilePath": "D:\\Projektit\\l3moni-c++\\l3moni-c++.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\l3moni\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.1\\microsoft.netcore.app.ref.6.0.1.nupkg.sha512",
+    "C:\\Users\\l3moni\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.1\\microsoft.netcore.app.host.win-x64.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
